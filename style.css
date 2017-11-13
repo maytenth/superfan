@@ -1,0 +1,41 @@
+
+body {
+	background-color:black;
+	height:100vh;
+	width: 100vw;
+	display:flex;
+	flex-wrap:wrap;
+}
+
+
+.titlerow{
+	height:20vh;
+	width:100vh;
+}
+
+.row{
+	height:40vh;
+	width:100vw;
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.row2{
+	height:40vh;
+	width:100vw;
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.box{
+	height:100%;
+	width:25%;
+}
+
+.pink{
+	background-color:pink;
+}
+
+.purple{
+	background-color:purple;
+}
