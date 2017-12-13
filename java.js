@@ -1,12 +1,13 @@
-function showTime(elem){
+function showTime(elem) {
 	elem.classList.toggle("one");
 }
-function showYear(elem){
+function showYear(elem) {
 	elem.classList.toggle("two");
 }
-function showTimeless(elem){
+function showTimeless(elem)
+{
 	elem.classList.toggle("timeless");
 }
-function playSound(e){
+function playSound(e) {
 	document.getElementById("oprah").play();
 }
