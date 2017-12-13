@@ -1,0 +1,118 @@
+body {
+	background-color:black;
+	height:100vh;
+	width: 100vw;
+	display:flex;
+	flex-wrap:wrap;
+	margin: 0;
+}
+
+
+.titlerow{
+	height:30vh;
+	width:100%;
+}
+
+h1 {
+	color: white;
+	font-size: 100px;
+	justify-content: center;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-style: normal;
+}
+
+.row{
+	height:40vh;
+	width:100vw;
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.row2{
+	height:40vh;
+	width:100vw;
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.pink{
+	height: 100%;
+	width: calc(100%/4);
+	background-color:pink;
+	content:url("surprised.gif");
+}
+.pink:hover{
+    cursor: pointer;
+}
+.purple{
+	height: 100%;
+	width: calc(100%/4);
+	background-color:pink;
+	content:url("math.gif");
+}
+.purple:hover{
+    cursor: pointer;
+}
+.blue{
+	height: 100%;
+	width: 	calc(100%/4);
+	background-color:pink;
+	content:url("salt.gif");
+}
+.blue:hover{
+    cursor: pointer;
+}
+.orange{
+	height: 100%;
+	width: calc(100%/4);
+	background-color:pink;
+	content:url("thinking.gif");
+}
+.orange:hover{
+    cursor: pointer;
+}
+.pink2{
+	height: 100%;
+	width: calc(100%/4);
+	background-color:pink;
+	content:url("anyways.gif");
+}
+.pink2:hover{
+    cursor: pointer;
+}
+.purple2{
+	height: 100%;
+	width: calc(100%/4);
+	background-color:pink;
+	content:url("oprah.gif");
+}
+.purple2:hover{
+    cursor: pointer;
+}
+.blue2{
+	height: 100%;
+	width:calc(100%/4);
+	background-color:pink;
+	content:url("newyork.gif");
+}
+.blue2:hover{
+    cursor: pointer;
+}
+.orange2{
+	height: 100%;
+	width: calc(100%/4);
+	background-color:pink;
+	content:url("pumpkin.gif");
+}
+.orange2:hover{
+    cursor: pointer;
+}
+.one{
+    content: url(2016.png);
+}
+.two{
+    content: url(2017.png);
+}
+.timeless{
+    content: url(timeless.png);
+}
